@@ -1,1 +1,114 @@
-# TotalBattle_K257_ROE
+ROE K267
+
+1. GENERAL RULES
+1.1 All players with more than 50k power must belong to a Clan that complies with ROE.  
+1.2 All Clans must include in their Clan description: “We follow ROE K257” in order to be protected.  
+1.3 Players without a Clan and with more than 50k power are not protected.  
+1.4 New players with less than 50k power without a Clan are protected by default.  
+
+2. ATTACKS
+2.1 Attacking players during peacetime is prohibited unless:  
+- They do not belong to a Clan protected by ROE.  
+- They are officially declared Outlaws.  
+- It is a coordinated attack (CP exchange).  
+2.2 Any infraction will result in legal retaliation or compensation.  
+2.3 Scouting is considered an attack.  
+2.4 All players may be attacked in COT.  
+2.5 There is no restriction on the number of attacks per player.  
+2.6 Clan marches are illegal except for CP exchange, attacks against outlaws, or Clans declared outlaws.  
+
+3. TERRITORY AND RESOURCES
+3.1 Clan buildings are fully protected. Any attack on Clan buildings will result in Outlaw status.  
+3.2 Resources within Clan territory belong to that Clan. Intruders may be attacked (warning the player beforehand is recommended).  
+3.3 Dragon Mounds, Tar Springs, and Gold Mines within Clan territory belong to the Clan; intruders may be attacked without warning.  
+3.4 Crypts, monsters, and citadels are free for all, even inside Clan territory.  
+3.5 Rare crypts belong to the player who unlocked them.  
+
+4. NATURAL RESOURCES
+4.1 All basic resources (wood, stone, iron, food, silver, dragon mounds, and springs) in the wild follow the “first come, first served” rule.  
+4.2 Each player may hold a maximum of 1 DM/1 WS for 24 hours.  
+Exceeding this limit allows the Royal Guard to attack without compensation.  
+4.3 Dragon mounds and springs must be registered in the corresponding Registration chats.  
+The entire mound must be registered to assist the Royal Guard in case of infractions.  
+If a player registers a resource, the entire Clan may use that registration until it is completed.  
+4.4 It is forbidden to attack occupied tiles unless:  
+- The tile is occupied by an outlaw.  
+- The occupant has registered more than 1 mound in 24 hours, or occupies 2+ mounds at the same time (registered or not).  
+4.5 Resources created by a player belong only to that player.  
+
+5. PORTALS
+5.1 Types of portals:  
+- Clan Portal: inside Clan territory, always protected.  
+- Event Portal: near epic monsters; protected during and after the event.  
+- Hostile Portal:  
+  • Within 5 tiles of Clan territory.  
+  • Used for any illegal attack.  
+  • Used for any attack during COT except the portal inside the Clan.  
+5.2 During peacetime all portals are protected except hostile portals.  
+5.3 During COT:  
+- Clan portals remain protected.  
+- Hostile portals may be attacked.  
+- Clan marches against hostile portals are allowed.  
+
+6. TAXES
+6.1 Players with excess Gold Ingots may be attacked by the Royal Guard.  
+6.2 Limits:  
+- Levels 1–14: 5K ingots  
+- Levels 15–19: 10K ingots  
+- Levels 20–24: 15K ingots  
+
+7. OUTLAWS
+7.1 Declared solely and exclusively by the Tribunal.  
+7.2 Outlaws lose all protection.  
+7.3 Anyone may attack outlaws without penalty.  
+7.4 Clans harboring outlaws become outlaw Clans if they do not resolve the outlaw player’s situation within 24 hours.  
+
+8. COMPENSATION
+8.1 Compensation is in Silver or 1 retaliatory attack (not both).  
+8.2 Sample unit costs:  
+- Archers/Spearmen/Swordsmen  
+  • Level 1–2: 200 per unit  
+  • Level 3–4: 400 per unit  
+  • Level 5: 600 per unit  
+- Cavalry  
+  • Level 1–2: 400 per unit  
+  • Level 3–4: 800 per unit  
+  • Level 5–6: 1100 per unit  
+- Siege  
+  • Level 1: 1200 per unit  
+  • Level 2: 1800 per unit  
+  • Level 3: 2400 per unit  
+  • Level 4: 1500 per unit  
+- Spies  
+  • Level 1: 600 per unit  
+  • Level 2: 900 per unit  
+  • Level 3: 1200 per unit  
+  • Level 4: 1500 per unit  
+- Epic Mercenaries  
+  • Level 5: 200 per unit  
+  • Level 6: 800 per unit  
+  • Level 7: 1000 per unit  
+- Monsters  
+  • Emerald Dragon: 6700  
+  • Water Elemental: 2900  
+  • Stone Gargoyle: 7600  
+  • Battle Boar: 5700  
+
+8.3 If no units are lost, city-level compensation applies:  
+- Levels 1–10: 200K silver  
+- Levels 11–15: 500K silver  
+- Levels 16–20: 1M silver  
+- Levels 21–25: 2M silver  
+8.4 Portal loss: 2M silver.  
+8.5 Compensation rates are reviewed by judges.  
+
+9. TRIBUNALS
+9.1 Tribunals resolve conflicts after 24 hours of failed diplomacy.  
+9.2 Judges are appointed from different Clans to ensure impartiality.  
+9.3 Only leaders or diplomats may present cases to the Tribunal.  
+9.4 Judges have the authority to authorize actions by the Royal Guard.  
+
+10. FINAL NOTES
+10.1 All rules apply unless otherwise announced during global events.  
+10.2 These rules will be updated when necessary.  
+10.3 Palace titles will be granted by the King at his discretion depending on the duties of the recipient.  
